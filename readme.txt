@@ -13,6 +13,7 @@ public static void main(String args[]){
 }
 by wsl
 
+
 /**
 * getter
 /
@@ -21,4 +22,8 @@ public String get(){
 }
 public void set(String sex){
  this.sex = sex;
+
+@Test
+public void test(){
+ afsg;
 }
