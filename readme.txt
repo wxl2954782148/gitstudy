@@ -19,3 +19,6 @@ by wsl
 public String get(){
  return "get";
 }
+public void set(String sex){
+ this.sex = sex;
+}
