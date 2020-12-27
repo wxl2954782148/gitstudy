@@ -3,5 +3,10 @@ ad3
 2*#32
 3afa
 saxiao
+<<<<<<< HEAD
 san
 wsfgsae:
+=======
+sansfas
+gasgqwega:
+>>>>>>> feature
