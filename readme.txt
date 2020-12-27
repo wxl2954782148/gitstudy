@@ -27,3 +27,7 @@ public void set(String sex){
 public void test(){
  afsg;
 }
+@Controller
+public void controller(){
+}
+
